@@ -1,0 +1,11 @@
+{
+  "name": "tsjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sonuishaq67/tsjs.git",
+  "author": "si67 <sonuishaq67@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apex": "^0.1.2"
+  }
+}
